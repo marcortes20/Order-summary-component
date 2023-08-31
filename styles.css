@@ -110,6 +110,7 @@ body{
     .card{
     
         width: 30%;
+        min-width: 260px;
         height: auto;
         background-color: white;
         display: flex;
